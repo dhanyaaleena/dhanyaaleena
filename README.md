@@ -1,6 +1,6 @@
 <h2 align="center">Hi, I'm Dhanya 👋</h2>
 <p align="center"><b>AI Backend Engineer</b> · agentic AI, LLM systems and the backends behind them<br>
-Based in London · open to AI and backend roles</p>
+Open to AI and backend roles</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhanya-koottunkal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
